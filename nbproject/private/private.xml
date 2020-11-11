@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/DANIELLEGONCALVESPRA/Documents/NetBeansProjects/RedeSocialRest/src/java/filter/JwtFilter.java</file>
+            <file>file:/C:/Users/DANIELLEGONCALVESPRA/Documents/NetBeansProjects/RedeSocialRest/src/java/dao/PostDAO.java</file>
+            <file>file:/C:/Users/DANIELLEGONCALVESPRA/Documents/NetBeansProjects/RedeSocialRest/src/java/service/NotificacaoServico.java</file>
+            <file>file:/C:/Users/DANIELLEGONCALVESPRA/Documents/NetBeansProjects/RedeSocialRest/src/java/service/UsuarioServico.java</file>
+            <file>file:/C:/Users/DANIELLEGONCALVESPRA/Documents/NetBeansProjects/RedeSocialRest/src/java/dao/EventoDAO.java</file>
+            <file>file:/C:/Users/DANIELLEGONCALVESPRA/Documents/NetBeansProjects/RedeSocialRest/src/java/service/EventoServico.java</file>
+            <file>file:/C:/Users/DANIELLEGONCALVESPRA/Documents/NetBeansProjects/RedeSocialRest/src/java/model/Notification.java</file>
+            <file>file:/C:/Users/DANIELLEGONCALVESPRA/Documents/NetBeansProjects/RedeSocialRest/src/java/model/Evento.java</file>
+            <file>file:/C:/Users/DANIELLEGONCALVESPRA/Documents/NetBeansProjects/RedeSocialRest/src/java/dao/NotificationDAO.java</file>
+            <file>file:/C:/Users/DANIELLEGONCALVESPRA/Documents/NetBeansProjects/RedeSocialRest/src/java/service/PostServico.java</file>
+            <file>file:/C:/Users/DANIELLEGONCALVESPRA/Documents/NetBeansProjects/RedeSocialRest/src/java/service/ApplicationConfig.java</file>
+        </group>
+    </open-files>
+</project-private>
